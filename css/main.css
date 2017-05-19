@@ -2,6 +2,7 @@
 html, body {
   height: 100%;
   background: #fff;
+    font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
 }
 .wrapper {
   width: 100%;
@@ -25,7 +26,7 @@ html, body {
 }
 
 h1 {
-	font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+	
 	font-size: 5em;
 	font-style: normal;
 	font-variant: normal;
@@ -39,4 +40,9 @@ h1 {
       font-size: 3em;
        line-height: 1em
    }
+}
+
+
+.handle {
+    color: #4099FF
 }
